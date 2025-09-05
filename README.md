@@ -1,7 +1,7 @@
-# 👨‍💻 Mohammed Suhail
+# 👨‍💻 Mohammed Suhail  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;AI%2FML+Enthusiast;Full+Stack+Developer;Exploring+Cloud+%26+MLOps" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;AI%2FML+Specialist;Full+Stack+Developer;Exploring+Cloud+%26+MLOps" alt="Typing Animation"/>
 </p>
 
 <!-- Gradient Divider -->
@@ -10,8 +10,8 @@
 ## 🧑‍🎓 About Me  
 <div style="background: linear-gradient(135deg, #00C9A7, #8A2BE2); padding: 15px; border-radius: 10px;">
 🎓 B.E. Computer Science (ATME College of Engineering, Mysore — 2022–2026)  
-💡 Passionate about **AI/ML, Full-Stack Development, and Cloud Technologies**  
-🚀 Exploring **MLOps and scalable architectures**  
+💡 Specializing in **Artificial Intelligence & Machine Learning**, with strong experience in Full-Stack Development  
+🚀 Exploring **MLOps, scalable architectures, and cloud deployment for AI-powered systems**  
 📫 Reach me: **mdsuhail2020078@gmail.com**
 </div>
 
