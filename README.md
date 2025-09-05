@@ -1,91 +1,93 @@
-# 👋 Hi, I'm Mohammed Suhail  
+# 👨‍💻 Mohammed Suhail
 
-🎓 **Computer Science Student** | 💻 **AI/ML & Full-Stack Developer** | ☁️ **Exploring Cloud & MLOps**  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;AI%2FML+Enthusiast;Full+Stack+Developer;Exploring+Cloud+%26+MLOps" alt="Typing Animation"/>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mdsuhail029&color=blue&style=flat-square)  
-![Followers](https://img.shields.io/github/followers/mdsuhail029?style=social)  
-![Stars](https://img.shields.io/github/stars/mdsuhail029?style=social)  
+<!-- Gradient Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
----
+## 🧑‍🎓 About Me  
+<div style="background: linear-gradient(135deg, #00C9A7, #8A2BE2); padding: 15px; border-radius: 10px;">
+🎓 B.E. Computer Science (ATME College of Engineering, Mysore — 2022–2026)  
+💡 Passionate about **AI/ML, Full-Stack Development, and Cloud Technologies**  
+🚀 Exploring **MLOps and scalable architectures**  
+📫 Reach me: **mdsuhail2020078@gmail.com**
+</div>
 
-## 🚀 About Me
-✨ Passionate about **AI/ML** & **scalable software design**  
-✨ Skilled in **Full-Stack Development**  
-✨ Exploring **Cloud Platforms** and **MLOps** for deploying intelligent systems  
+<!-- Wave Transition -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header"/>
 
----
-
-## 🎓 Education
-- 🎓 **B.E in Computer Science**, ATME College of Engineering, Mysore *(2022–2026)* – *CGPA: 8.5*  
-- 🏫 **Pre-University Course**, Marimallappa’s PU College, Mysore *(2020–2022)* – *80.6%*  
-- 🏫 **10th Standard**, Marimallappa’s High School, Mysore *(2019–2020)* – *85.6%*  
-
----
-
-## 💻 Projects  
-
-### 🌸 Iris Flower Classification  
-🔹 Built ML model using **Python + Scikit-learn**  
-🔹 Applied **KNN algorithm** on the Iris dataset  
-🔹 Visualized results & evaluated accuracy with confusion matrix  
-
-### 🤖 Twitter Bot Detection  
-🔹 Developed using **TensorFlow/Keras + Twitter API**  
-🔹 Extracted features like **follower ratio, tweet frequency, account activity**  
-🔹 Improved accuracy with feature tuning & testing  
-
----
-
-## 🛠️ Skills Dashboard  
-
+## 🛠 Skills  
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+<div style="background: #00C9A7; color:white; padding:10px; border-radius:10px; flex:1 1 200px;">
 **Languages**  
-`Python` `C` `R (Data Analytics)` `HTML` `CSS`  
-
+🐍 Python, C, R, HTML, CSS  
+</div>
+<div style="background: #8A2BE2; color:white; padding:10px; border-radius:10px; flex:1 1 200px;">
 **Databases**  
-`MySQL` `MongoDB` `Redis`  
+🗄 MySQL, MongoDB, Redis  
+</div>
+<div style="background: #FF61DA; color:white; padding:10px; border-radius:10px; flex:1 1 200px;">
+**Tools**  
+⚙️ Git, Docker  
+</div>
+</div>
 
 ---
 
-## 🏆 Certifications
-- 🌐 Campus Ambassador Intern – **International Model United Nations (IMUN)**  
-- 📊 Infosys SpringBoard – **Data Science Certification**  
-- 🤖 Infosys SpringBoard – **Natural Language Processing**  
-- 🗄️ Infosys SpringBoard – **SQL Certification**  
-- 🧠 Infosys SpringBoard – **TensorFlow Certification**  
-- ⚡ IVIS LABS – **Prompt Engineering Phase 1**  
-- ⚡ IVIS LABS – **Prompt Engineering Phase 2**  
+## 🎯 Projects  
+
+<div style="display:flex; gap:20px; flex-wrap:wrap;">
+<div style="background: linear-gradient(135deg, #00C9A7, #8A2BE2); padding:15px; border-radius:10px; flex:1 1 300px; transition: transform 0.3s;">
+🌸 **Iris Flower Classification (ML)**  
+- KNN model in Python/Scikit-learn  
+- Visualizations & evaluation  
+</div>
+
+<div style="background: linear-gradient(135deg, #8A2BE2, #FF61DA); padding:15px; border-radius:10px; flex:1 1 300px; transition: transform 0.3s;">
+🤖 **Twitter Bot Detection (NN)**  
+- TensorFlow/Keras + Twitter API  
+- Bot vs Human Classification  
+</div>
+</div>
+
+---
+
+## 📜 Certifications  
+
+<div style="display:flex; gap:20px; flex-wrap:wrap;">
+<div style="background:#00C9A7;color:white;padding:10px;border-radius:10px;">📘 Infosys Springboard – Data Science</div>
+<div style="background:#8A2BE2;color:white;padding:10px;border-radius:10px;">📘 Infosys Springboard – NLP</div>
+<div style="background:#FF61DA;color:white;padding:10px;border-radius:10px;">📘 Infosys Springboard – SQL</div>
+<div style="background:#00C9A7;color:white;padding:10px;border-radius:10px;">📘 Infosys Springboard – TensorFlow</div>
+<div style="background:#8A2BE2;color:white;padding:10px;border-radius:10px;">🧪 IVIS LABS – Prompt Engg Phase 1 & 2</div>
+<div style="background:#FF61DA;color:white;padding:10px;border-radius:10px;">🌍 IMUN – Campus Ambassador Intern</div>
+</div>
 
 ---
 
 ## 📊 GitHub Dashboard  
 
 <p align="center">
-  <!-- Animated typing SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=🚀+AI%2FML+Enthusiast;💻+Full+Stack+Developer;☁️+Exploring+Cloud+%26+MLOps" alt="Typing Animation"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mdsuhail029&theme=react&hide_border=true&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7" height="150"/>
 </p>
 
 <p align="center">
-  <!-- Contribution streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mdsuhail029&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="150" alt="streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mdsuhail029&show_icons=true&theme=react&hide_border=true&title_color=00C9A7&icon_color=00C9A7" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsuhail029&layout=compact&theme=react&hide_border=true&title_color=00C9A7" height="150"/>
 </p>
 
 <p align="center">
-  <!-- GitHub stats + languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mdsuhail029&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=58A6FF" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsuhail029&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF" height="150" alt="top languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdsuhail029&theme=react-dark&hide_border=true&line=00C9A7&point=00C9A7&area=true"/>
 </p>
-
-<p align="center">
-  <!-- Activity graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdsuhail029&theme=tokyo-night&hide_border=true&line=58A6FF&point=58A6FF&area=true" alt="activity graph"/>
-</p>
----
-
-## 🌐 Connect with Me
-📧 [Email](mailto:mdsuhail2020078@gmail.com)  
-🐙 [GitHub](https://github.com/mdsuhail029)  
-💼 [LinkedIn](https://in.linkedin.com/in/mohammed-suhail-2a5167332)  
 
 ---
 
-⭐️ *“Always learning, always building.”*
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://github.com/mdsuhail029"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://in.linkedin.com/in/mohammed-suhail-2a5167332"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:mdsuhail2020078@gmail.com"><img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
