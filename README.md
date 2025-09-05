@@ -60,14 +60,25 @@
 ## 📊 GitHub Dashboard  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdsuhail029&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsuhail029&layout=compact&theme=tokyonight" height="160"/>
+  <!-- Animated typing SVG -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=🚀+AI%2FML+Enthusiast;💻+Full+Stack+Developer;☁️+Exploring+Cloud+%26+MLOps" alt="Typing Animation"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mdsuhail029&theme=tokyonight&hide_border=true" height="160"/>
+  <!-- Contribution streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mdsuhail029&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="150" alt="streak stats"/>
 </p>
 
+<p align="center">
+  <!-- GitHub stats + languages -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mdsuhail029&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=58A6FF" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsuhail029&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF" height="150" alt="top languages"/>
+</p>
+
+<p align="center">
+  <!-- Activity graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdsuhail029&theme=tokyo-night&hide_border=true&line=58A6FF&point=58A6FF&area=true" alt="activity graph"/>
+</p>
 ---
 
 ## 🌐 Connect with Me
